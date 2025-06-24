@@ -1,1 +1,1 @@
-# rock-paper-sciccors
+# rock-paper-scissors
